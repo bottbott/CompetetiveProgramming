@@ -33,6 +33,6 @@ class Solution2:
                 return True
         return False
 
-sol = Solution()
+sol = Solution1()
 print(sol.containsDuplicate([1,1]))
 print(sol.containsDuplicate([1,2]))
